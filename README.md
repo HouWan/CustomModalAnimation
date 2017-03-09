@@ -2,7 +2,7 @@
 ![效果图](https://github.com/HouWan/CustomModalAnimation/blob/master/iOSApp3.gif)
 
 ### 使用`UIPresentationController`自定义modal转场动画。
-### 简书讲解地址： [点我](http://www.baidu.com)
+### 简书讲解地址： [点我](http://www.jianshu.com/p/a7335474651c)
 
 # 小侯爷 ~~ 佛祖保佑   永无BUG ~~ 小侯爷
 ```
