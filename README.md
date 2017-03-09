@@ -1,5 +1,5 @@
 
-![效果图](http://images.cnitblog.com/blog2015/497279/201505/051004316736641.png)
+![效果图](https://github.com/HouWan/CustomModalAnimation/blob/master/iOSApp3.gif)
 
 ### 使用`UIPresentationController`自定义modal转场动画。
 ### 简书讲解地址： [点我](http://www.baidu.com)
